@@ -57,11 +57,11 @@ A6206.5. Analyze the characteristics of DC machines, Transformers, Diodes and re
 
 ## <a name="lecturenotes">Lecture Notes</a>
 
-1. Unit I [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EdCGDwpLpB9KkTQKFhEqIFgBqevgu35gNCBjpS8C0T1ZWQ?e=Az4IIh)
-2. Unit II [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Ee06x4QArVpKiwBCh7Hh0yoBBXiOTZZAxPxwb0CPo3DlDg?e=PV3U30)
-3. Unit III [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EWpmwIqFWfxOg0MukwYppQcBKJsfR6GU96qCP_j-4hKdfg?e=btGJ8G)
-4. Unit IV [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EZjizvi_D-RHjW6LhKGN4uwB02QbhPnWq00cwAhDb6GsrQ?e=9zXOJ1)
-5. Unit V [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXL0fJnR77NBg0uIamAM9zgBYly10Hoxld90U28jWzLJZA?e=M2tQfH)
+1. Unit I [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EdCGDwpLpB9KkTQKFhEqIFgBqevgu35gNCBjpS8C0T1ZWQ?e=Az4IIh){:target="_blank" rel="noopener"}
+2. Unit II [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Ee06x4QArVpKiwBCh7Hh0yoBBXiOTZZAxPxwb0CPo3DlDg?e=PV3U30){:target="_blank" rel="noopener"}
+3. Unit III [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EWpmwIqFWfxOg0MukwYppQcBKJsfR6GU96qCP_j-4hKdfg?e=btGJ8G){:target="_blank" rel="noopener"}
+4. Unit IV [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EZjizvi_D-RHjW6LhKGN4uwB02QbhPnWq00cwAhDb6GsrQ?e=9zXOJ1){:target="_blank" rel="noopener"}
+5. Unit V [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXL0fJnR77NBg0uIamAM9zgBYly10Hoxld90U28jWzLJZA?e=M2tQfH){:target="_blank" rel="noopener"}
 
 <hr>
 
