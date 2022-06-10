@@ -77,13 +77,13 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 |2 | [Assignment # 2](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EQC3EnNPwU1KmO9zHZ9Q1JwBjg067TVFbJe4nCbzvJfFfw?e=t3Qdhz){:target="_blank" rel="noopener"} | 02 Jan 2022 | 08 Jan 2022 |
 
 ## <a name="practice">Practice</a>
-**Cycle-1:** [Download] (https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EblwcFUdpH9OjPlu4QtO-L8BoDS8lK8BUIdKQh2Qo61wxA?e=NMxqKB){:target="_blank" rel="noopener"}
+**Cycle-1:** [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EblwcFUdpH9OjPlu4QtO-L8BoDS8lK8BUIdKQh2Qo61wxA?e=NMxqKB){:target="_blank" rel="noopener"}
 1. Verification of Ohm’s Law
 2. Verification of KVL and KCL
 3. Verification of Thevenin’s and Norton’s theorems
 4. Verification of Maximum Power Transfer theorem 
 5. Verification of Super Position and Reciprocity theorems 
-**Cycle-2:** [Download] (https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXW3cG6bMEtAjY9Xzw9162sB0aLKTVdkwfdncGvEWWBsbQ?e=hQEAwo){:target="_blank" rel="noopener"}
+**Cycle-2:** [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EXW3cG6bMEtAjY9Xzw9162sB0aLKTVdkwfdncGvEWWBsbQ?e=hQEAwo){:target="_blank" rel="noopener"}
 6. OC and SC Test on a Single-Phase Transformer 
 7. Open circuit characteristics of DC Shunt Generator 
 8. Brake test on DC Shunt motor and draw the characteristics 
