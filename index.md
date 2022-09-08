@@ -75,6 +75,7 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 |:--:|-----||:--------:|:---:|
 |1 | [Assignment # 1](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Eb65MJxVkUtNpuooKksxVnEB7LNeCQDsUypUeX1atyqNhA?e=ZkiPn5){:target="_blank" rel="noopener"} | 07 Dec 2021 | 16 Dec 2021 |
 |2 | [Assignment # 2](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EQC3EnNPwU1KmO9zHZ9Q1JwBjg067TVFbJe4nCbzvJfFfw?e=t3Qdhz){:target="_blank" rel="noopener"} | 02 Jan 2022 | 08 Jan 2022 |
+|3 | [Complex Engineering Problems](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EVmNrQYwiehOs9ekNChIFxYBwAf8ZNj7ca2Tp--zRZZf9Q?e=dzZ5gW){:target="_blank" rel="noopener"} |  |  |
 
 ## <a name="practice">Practice</a>
 **Cycle-1:** [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EblwcFUdpH9OjPlu4QtO-L8BoDS8lK8BUIdKQh2Qo61wxA?e=NMxqKB){:target="_blank" rel="noopener"}
